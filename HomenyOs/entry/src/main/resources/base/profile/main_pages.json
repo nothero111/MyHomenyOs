@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/shopPlace",
+    "pages/dataLongPage",
+    "pages/Index",
+    "pages/TaskManagePage",
+    "pages/memorandumPage"
+  ]
+}
